@@ -1,0 +1,71 @@
+.header{
+    font-size: 3rem;
+}
+
+.header span{
+    font-size: 1.5rem;
+}
+
+hr{
+    height: 5px !important;
+}
+
+.img-container{
+    width: 170px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.img-container img{
+    object-fit: cover;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.right{
+    border-right: 2px solid gray;
+}
+
+.right hr, .left hr{
+    height: 3px !important;
+}
+
+p{
+    margin-bottom: 0.5rem;
+}
+
+h4{
+    margin: 0.2rem 0;
+}
+
+.prog-lang{
+    margin-top: 2px solid gray;
+}
+
+.fa-python{
+    color: #3965aa;
+}
+
+.fa-html5{
+    color: #f74820;
+}
+
+.fa-java{
+    color: #fb0000;
+}
+
+.fa-css3-alt{
+    color: #188bcb;
+}
+
+.fa-js-square{
+    color: #e8ee2b;
+}   
+
+.left h4, .left h5{
+    margin-top: 1.5rem;;
+}
+
+.skills li{
+    margin-bottom: 10px;
+}
