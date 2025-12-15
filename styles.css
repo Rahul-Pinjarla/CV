@@ -69,3 +69,7 @@ h4{
 .skills li{
     margin-bottom: 10px;
 }
+
+.prog-lang .icon {
+    width: 50px;
+}
